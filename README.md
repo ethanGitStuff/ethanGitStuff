@@ -5,4 +5,7 @@ My languages I am currently proficient in:
   2. Java
   3. Python
   4. SQL
+  5. F#
+
+Currently computer science bachlor who wants to become a software developer.
 
