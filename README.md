@@ -13,11 +13,12 @@ Java, it has all been such an inspiring ecxperience that makes me more hopeful t
 ## Skills
 I am currently a student at UIC (expected May 2027) looking forward to becoming a software developer.
 My languages I am currently proficient in:
-  1. C / C++
-  2. Java
+  1. Java
+  2. C / C++
   3. Python
-  4. SQL
-  5. F#
+  4. Go
+  5. SQL
+  6. F#
 
 Classes:
   1. Programming Practicum
